@@ -3,7 +3,7 @@ title: "NascimentoLab - Home"
 layout: homelay
 excerpt: "Nascimento Lab at IFSC, University of Sao Paulo."
 sitemap: false
-permalink: NascimentoLab/
+permalink: /
 ---
 
 We are a research group at the [São Carlos Institute of Physics](http://www.ifsc.usp.br) @ University of São Paulo. Our aim is to explore and understand protein structure and function, using experimental and computational tools.
