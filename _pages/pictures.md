@@ -2,7 +2,7 @@
 title: "Allan Lab - Pictures"
 layout: piclay
 excerpt: "Allan Lab -- Pictures"
-permalink: NascimentoLab/pictures/
+permalink: /pictures/
 ---
 
 # Pictures

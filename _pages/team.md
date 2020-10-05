@@ -3,7 +3,7 @@ title: "Nascimento Lab - Team"
 layout: gridlay
 excerpt: "Nascimento Lab: Team members"
 sitemap: false
-permalink: NascimentoLab/team
+permalink: /team
 ---
 
 # Group Members

@@ -3,7 +3,7 @@ title: "Allan Lab - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
-permalink: NascimentoLab/aoa.html
+permalink: /aoa.html
 ---
 
 # Calendar
