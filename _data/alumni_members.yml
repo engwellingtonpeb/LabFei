@@ -55,12 +55,12 @@
   education2: MSc in Physics
   education3: PhD in Physics
 
-  - name: Geraldo R. Sartori
-    photo:
-    info: PostDoc
-    email:
-    number_educ: 3
-    duration: In the Nascimento Lab 2018 - 2019
-    education1: BSc. Physics and Biomolecular Sciences
-    education2: MSc in Physics
-    education3: PhD in Chemistry
+- name: Geraldo R. Sartori
+  photo:
+  info: PostDoc
+  email:
+  number_educ: 3
+  duration: In the Nascimento Lab 2018 - 2019
+  education1: BSc. Physics and Biomolecular Sciences
+  education2: MSc in Physics
+  education3: PhD in Chemistry
