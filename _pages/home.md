@@ -63,8 +63,8 @@ We are a research group at the [São Carlos Institute of Physics](http://www.ifs
 We are grateful for funding from [FAPESP](www.fapesp.br) and from [CNPq](http://www.cnpq.br).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_USP.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_USP.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ifsc.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_FAPESP.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_FAPESP.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_cnpq.png" style="width: 110px">
 </figure>
