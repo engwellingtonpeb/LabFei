@@ -8,7 +8,7 @@
   education3: Postdoc University of Sao Paulo
 
 - name: Luana G. Morão
-  photo:
+  photo: rock.jpg
   info: Postdoc, started Dec 2019
   email:
   number_educ: 2
@@ -16,7 +16,7 @@
   education3: Bachelor in Biology.
 
 - name: Raíssa F. Gutierrez
-  photo:
+  photo: rock.jpg
   info: PhD Student
   email:
   number_educ: 2
@@ -24,14 +24,14 @@
   education2: Bachelor in Physics and Biomolecular Sciences, University of Sao Paulo.
 
 - name: Angélica L. C. Barra
-  photo:
+  photo: rock.jpg
   info: PhD Student
   email:
   number_educ: 1
   education1: Bachelor in Physics and Biomolecular Sciences, University of Sao Paulo.
 
 - name: Lívia C. O. Dantas
-  photo:
+  photo: rock.jpg
   info: PhD Student
   email:
   number_educ: 1
@@ -39,8 +39,8 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="https://alessandronascimento.github.io/NascimentoLab/vacancies">openings</a> for more info
+  email:
   number_educ: 0
   education1:
   education2:
