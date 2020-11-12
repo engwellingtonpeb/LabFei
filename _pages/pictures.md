@@ -10,7 +10,7 @@ permalink: /pictures/
 
 ### Gallery
 (Right-click *'view image'* to see a larger image.)
-![useful image]({{ site.url }}/images/group_photos/20151211_204403-e1464184477502.jpg)
+![useful image]({{ site.url }}{{ site.baseurl }}/images/group_photos/20151211_204403-e1464184477502.jpg)
 
 
 
