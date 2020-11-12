@@ -20,7 +20,7 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/group_photos/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/group_photos/{{ pic.JPG }}" class="img-responsive" width="60%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
