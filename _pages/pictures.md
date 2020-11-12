@@ -8,7 +8,6 @@ permalink: /pictures/
 # Pictures
 
 
-
 ### Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
