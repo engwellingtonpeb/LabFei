@@ -3,7 +3,7 @@ title: "Laboratório de Engenharia Biomédica - Publicações"
 layout: gridlay
 excerpt: "Laboratório de Engenharia Biomédica -- Publicações"
 sitemap: false
-permalink: /publicações /
+permalink: /articles
 ---
 
 
