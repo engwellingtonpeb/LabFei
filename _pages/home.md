@@ -1,12 +1,12 @@
 ---
-title: "NascimentoLab - Home"
+title: "Laboratório de Engenharia Biomédica - Home"
 layout: homelay
-excerpt: "Nascimento Lab at IFSC, University of Sao Paulo."
+excerpt: "Laboratório de Engenharia Biomédica at FEI."
 sitemap: false
 permalink: /
 ---
 
-We are a research group at the [São Carlos Institute of Physics](http://www.ifsc.usp.br) @ University of São Paulo. Our aim is to explore and understand protein structure and function, using experimental and computational tools.
+Grupo de pesquisa em Engenharia Biomédica e Tecnologias Assistivas do  [Centro Universitário da FEI](http://www.fei.edu.br) @ FEI. Our aim is to explore and understand protein structure and function, using experimental and computational tools.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
