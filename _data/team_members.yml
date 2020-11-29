@@ -1,31 +1,31 @@
-- name: Alessandro S Nascimento
+- name: Maria Claudia Ferrari de Castro, DSc.
   photo:
-  info: Assistant professor, started Nov 2012
-  email: asnascimento@ifsc.usp.br
+  info: Professora Adjunta
+  email: mclaudia@fei.edu.br
   number_educ: 3
   education1: Bachelor in Pharmaceutical Sciences, University of Brasilia (UnB).
   education2: PhD in Physics, University of Sao Paulo
   education3: Postdoc University of Sao Paulo
 
-- name: Luana G. Morão
+- name: Marko Ackermann, DSc.
   photo: rock.jpg
-  info: Postdoc, started Dec 2019
+  info: Professor Associado, Chefe de Departamento
   email:
   number_educ: 2
   education2: Ph.D. in Microbiology
   education3: Bachelor in Biology.
 
-- name: Raíssa F. Gutierrez
+- name: Fabrizio Leonardi, DSc.
   photo: rock.jpg
-  info: PhD Student
+  info: Professor Adjunto
   email:
   number_educ: 2
   education1: Master in Physics, University of Sao Paulo
   education2: Bachelor in Physics and Biomolecular Sciences, University of Sao Paulo.
 
-- name: Angélica L. C. Barra
+- name: Wellington Cássio Pinheiro, MSc.
   photo: rock.jpg
-  info: PhD Student
+  info: Professor Assistente
   email:
   number_educ: 1
   education1: Bachelor in Physics and Biomolecular Sciences, University of Sao Paulo.
