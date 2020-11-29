@@ -1,7 +1,7 @@
 ---
-title: "NascimentoLab - Publications"
+title: "Laboratório de Engenharia Biomédica - Publicações"
 layout: gridlay
-excerpt: "NascimentoLab -- Publications."
+excerpt: "Laboratório de Engenharia Biomédica -- Publicações."
 sitemap: false
 permalink: /publications/
 ---
