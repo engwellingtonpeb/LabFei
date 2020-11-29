@@ -1,9 +1,9 @@
 ---
 title: "Laboratório de Engenharia Biomédica - Publicações"
 layout: gridlay
-excerpt: "Laboratório de Engenharia Biomédica -- Publicações."
+excerpt: "Laboratório de Engenharia Biomédica -- Publicações"
 sitemap: false
-permalink: /publications/
+permalink: /publicações /
 ---
 
 
