@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Nascimento Lab
-email: asnascimento <at> ifsc.usp.br
+title: Lab de Eng. Biomedica - FEI
+email: wellington<at>fei.edu.br
 description: > # this means to ignore newlines until "baseurl:"
-  Nascimento Lab page @ IFSC/USP.
-baseurl: "https://alessandronascimento.github.io/NascimentoLab"
+  Laboratório de Engenharia Biomédica @ FEI
+baseurl: "https://engwellingtonpeb.github.io/LabFei/"
 url: ""
 
 include:
