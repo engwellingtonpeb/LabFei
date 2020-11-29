@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Grupo de pesquisa em Engenharia Biomédica e Tecnologias Assistivas do  [Centro Universitário da FEI](http://www.fei.edu.br) @ FEI. Our aim is to explore and understand protein structure and function, using experimental and computational tools.
+Grupo de pesquisa em Engenharia Biomédica e Tecnologias Assistivas do  [Centro Universitário da FEI](http://www.fei.edu.br) @ FEI. Desenvolvemos pesquisas nas àreas de biomecânica e processamento de sinais médicos em assuntos como: [Neuro]próteses, órteses, simulações de movimento e supressão de tremores patológicos. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
