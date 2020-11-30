@@ -6,9 +6,9 @@ sitemap: false
 permalink: /team
 ---
 
-# Group Members
+# Nosso Time
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **Estamos sempre buscando alunos de Doutorado, Mestrado, IC e TCC para melhorar a vida das pessoas utilizando a engenharia. ** [(Veja vagas)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
