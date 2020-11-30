@@ -1,7 +1,7 @@
 ---
-title: "Nascimento Lab - Team"
+title: "LEB - Time | FEI"
 layout: gridlay
-excerpt: "Nascimento Lab: Team members"
+excerpt: "Team members"
 sitemap: false
 permalink: /team
 ---
