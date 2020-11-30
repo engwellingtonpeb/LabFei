@@ -1,41 +1,40 @@
 - name: Maria Claudia Ferrari de Castro, DSc.
-  photo:
+  photo:mclaudia.png
   info: Professora Adjunta
   email: mclaudia@fei.edu.br
   number_educ: 3
-  education1: Bachelor in Pharmaceutical Sciences, University of Brasilia (UnB).
-  education2: PhD in Physics, University of Sao Paulo
-  education3: Postdoc University of Sao Paulo
+  education1: Graduada em Engenharia Elétrica com ênfase em eletrônica (IMT)
+  education2: Mestra em Engenharia Elétrica com ênfase em automação (FEEC / UNICAMP)
+  education3: Doutora em Engenharia Elétrica com ênfase em Engenharia Biomédica (FEEC/UNICAMP)
 
 - name: Marko Ackermann, DSc.
-  photo: rock.jpg
+  photo: acker.png
   info: Professor Associado, Chefe de Departamento
-  email:
-  number_educ: 2
-  education2: Ph.D. in Microbiology
-  education3: Bachelor in Biology.
+  email: mackermann@fei.edu.br
+  number_educ: 4
+  education1: Graduado em Engenharia Mecânica (USP)
+  education2: Mestre em Engenharia Mecânica (USP)
+  education3: Doutor em Engenharia Mecânica (University of Stuttgart)
+  education4: Estágio pós doutoral - Dpto. de Eng. Biomédica (Cleveland Clinic)
 
 - name: Fabrizio Leonardi, DSc.
-  photo: rock.jpg
+  photo: leonardi.png
   info: Professor Adjunto
   email:
-  number_educ: 2
+  number_educ: 4
   education1: Master in Physics, University of Sao Paulo
   education2: Bachelor in Physics and Biomolecular Sciences, University of Sao Paulo.
 
 - name: Wellington Cássio Pinheiro, MSc.
-  photo: rock.jpg
+  photo: wcp.png
   info: Professor Assistente
   email:
-  number_educ: 1
-  education1: Bachelor in Physics and Biomolecular Sciences, University of Sao Paulo.
+  number_educ: 3
+  education1: Graduado em Engenharia Elétrica (FEI)
+  education2: Mestre em Engenharia Biomédica (COPPE/UFRJ)
+  education3: Doutorando em Engenharia Biomédica (COPPE/UFRJ)
+  
 
-- name: Lívia C. O. Dantas
-  photo: rock.jpg
-  info: PhD Student
-  email:
-  number_educ: 1
-  education1: Bachelor in Physics and Biomolecular Sciences, University of Sao Paulo.
 
 - name: "This could be you !"
   photo: rock.jpg
