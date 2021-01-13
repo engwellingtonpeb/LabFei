@@ -18,17 +18,19 @@
   education4: Estágio pós doutoral - Dpto. de Eng. Biomédica (Cleveland Clinic)
 
 - name: Fabrizio Leonardi, DSc.
-  photo: leonardi.png
+  photo: leonardi.jpg
   info: Professor Adjunto
-  email:
+  email: fabrizio@fei.edu.br
   number_educ: 4
-  education1: Master in Physics, University of Sao Paulo
-  education2: Bachelor in Physics and Biomolecular Sciences, University of Sao Paulo.
+  education1: Graduado em Engenharia Elétrica (FEI)
+  education2: Mestre em Engenharia Elétrica (USP)
+  education3: Doutor em Engenharia Elétrica (USP)
+  education4: Estágio pós doutoral - Dpto. de Eng. Elétrica (USP)
 
 - name: Wellington Cássio Pinheiro, MSc.
-  photo: wcp.png
+  photo: wcp.jpg
   info: Professor Assistente
-  email:
+  email: wellington@fei.edu.br
   number_educ: 3
   education1: Graduado em Engenharia Elétrica (FEI)
   education2: Mestre em Engenharia Biomédica (COPPE/UFRJ)
@@ -36,9 +38,9 @@
   
 
 
-- name: "This could be you !"
+- name: "Seja parte do time"
   photo: rock.jpg
-  info: See <a href="https://alessandronascimento.github.io/NascimentoLab/vacancies">openings</a> for more info
+  info: clique <a href="/vacancies">oportunidades</a> para mais  informações sobre projetos que você possa se interessar
   email:
   number_educ: 0
   education1:

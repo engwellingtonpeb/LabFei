@@ -11,7 +11,7 @@ permalink: /team
  **Estamos sempre buscando alunos de Doutorado, Mestrado, IC e TCC para melhorar a vida das pessoas utilizando a engenharia. ** [(Veja vagas)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Ir para [professores](#staff), [alunos de mestrado, doutorado e TCC](#master-and-bachelor-students), [alumni](#alumni), [apoio administrativo](#administrative-support), [visitantes](#lab-visitors).
+Ir para [professores](#Professores), [alunos de mestrado, doutorado e TCC](#Alunos-de-Mestrado,-Doutorado-e-TCC), [alumni](#alumni), [apoio administrativo](#Apoio-administrativo), [visitantes](#Visitantes).
 
 ## Professores
 {% assign number_printed = 0 %}
