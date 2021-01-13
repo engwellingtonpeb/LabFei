@@ -1,7 +1,7 @@
 ---
-title: "Laboratório de Engenharia Biomédica - Home"
+title: "LEB - Home"
 layout: homelay
-excerpt: "Laboratório de Engenharia Biomédica at FEI."
+excerpt: "LEB - FEI."
 sitemap: false
 permalink: /
 ---
@@ -52,10 +52,10 @@ Grupo de pesquisa em Engenharia Biomédica e Tecnologias Assistivas do  [Centro 
 </div>
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(mais informações)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from [FAPESP](www.fapesp.br) and from [CNPq](http://www.cnpq.br).
+Agradecemos  à [FAPESP](www.fapesp.br), [CNPq](http://www.cnpq.br) e [CAPES](https://www.gov.br/capes/pt-br).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_USP.png" style="width: 110px">

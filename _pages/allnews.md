@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "NascimentoLab at São Paulo University."
+excerpt: "LEB -  FEI."
 sitemap: false
 permalink: /allnews.html
 ---
