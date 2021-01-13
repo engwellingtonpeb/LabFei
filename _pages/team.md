@@ -11,7 +11,7 @@ permalink: /team
  **Estamos sempre buscando alunos de Doutorado, Mestrado, IC e TCC para melhorar a vida das pessoas utilizando a engenharia. ** [(Veja vagas)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Ir para [professores](#staff), [alunos de mestrado, doutorado e TCC](#master-and-bachelor-students), [alumni](#alumni), [apoio administrativo](#administrative-support), [visitantes](#lab-visitors).
 
 ## Professores
 {% assign number_printed = 0 %}
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Alunos de Graduação, Mestrado e Doutorado
+## Alunos de Mestrado, Doutorado e TCC
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -165,7 +165,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Visitantes
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -192,5 +192,5 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 
-## Administrative Support
+## Apoio administrativo
 <a href="mailto:secretariafci3@ifsc.usp.br">Our administrative staff</a> is helping us (and other groups) with all the administration.

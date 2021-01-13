@@ -7,9 +7,9 @@ permalink: /articles
 ---
 
 
-# Publications
+# Publicações
 
-## Group highlights
+## Highlights
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
 
@@ -52,7 +52,7 @@ permalink: /articles
 <p> &nbsp; </p>
 
 
-## Full List
+## Lista Completa
 
 {% for publi in site.data.publist %}
 
