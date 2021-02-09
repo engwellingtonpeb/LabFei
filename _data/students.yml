@@ -1,31 +1,45 @@
 - name: João Victor Fernandes de Souza
   photo: joao.png
-  info: Aluno de Mestrado orientado pela Profa. Maria Claudia F. de Castro no tema "Desenvolvimento de um sistema de recomendação para reabilitação de pacientes acometidos por paralisia dos membros superiores"
+  info: Aluno de Mestrado orientado pela Profa. Maria Claudia  no tema "Desenvolvimento de um sistema de recomendação para reabilitação de pacientes acometidos por paralisia dos membros superiores"
   email: teste@fei.edu.br
   number_educ: 0
   education1: 
 
 - name: Lucas Henrique Kazuo Hayashi
   photo: lucas_ic.png
-  info: Aluno de IC orientado pela Profa. Maria Claudia F. de Castro no tema "Plataforma web e avaliação de usabilidade para integração de dados da Stimgrasp visando reabilitação motora remota"
+  info: Aluno de IC orientado pela Profa. Maria Claudia  no tema "Plataforma web e avaliação de usabilidade para integração de dados da Stimgrasp visando reabilitação motora remota"
   email: teste@fei.edu.br
   number_educ: 0
   education1: 
 
 - name: Sabrina Midori Assato
   photo: sabrina_ic.jpg
-  info: Aluna de IC orientado pela Profa. Maria Claudia F. de Castro no tema "Criação de um ambiente 3D em Unity para reabilitação motora remota com o uso de realidade virtual"
+  info: Aluna de IC orientado pela Profa. Maria Claudia no tema "Criação de um ambiente 3D em Unity para reabilitação motora remota com o uso de realidade virtual"
   email: teste@fei.edu.br
   number_educ: 0
   education1:
 
 - name: Vinicius Losacco
   photo: vinicius_ic.jpg
-  info: Aluno de Mestrado orientado pela Profa. Maria Claudia F. de Castro no tema "Telerreabilitação para membros superiores"
+  info: Aluno de IC orientado pela Profa. Maria Claudia no tema "Telerreabilitação para membros superiores"
   email: teste@fei.edu.br
   number_educ: 0
   education1: 
 
+
+- name: Letícia Vercelli Araujo
+  photo: student_emoji.jpg
+  info: Aluno de IC orientado pelo Prof. Wellington no tema "Modelagem biomecânica de tremores patológicos"
+  email: teste@fei.edu.br
+  number_educ: 0
+  education1: 
+
+
+- name: "Seja parte do time"
+  photo: student_emoji.jpg
+  info: clique <a href="/vacancies">oportunidades</a> para mais  informações sobre projetos que você possa se interessar
+  email:
+  number_educ: 0
 
 
 
