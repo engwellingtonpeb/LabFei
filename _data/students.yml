@@ -1,12 +1,10 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+name: João Victor Fernandes de Souza
+photo: joao.png
+info: Aluno de Mestrado
+email:
+number_educ: 1
+education1: Bacharel em Ciência da Computação
+
 
 #- name: Rebecca Gharibaan
 #  photo: rock.jpg
