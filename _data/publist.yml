@@ -1,6 +1,6 @@
 - title: A model based control strategy for assisted manual wheelchairs a simulation study 
-  image: dummy.png
-  description: ""
+  image: journal_1.png
+  description: "Journal Paper"
   authors:
     Martins, M., Ackermann, M., Leonardi, F.
   link:
@@ -11,12 +11,34 @@
 
 - title: EFFECTS OF A CLOSED-LOOP PARTIAL POWER ASSISTANCE ON MANUAL WHEELCHAIR LOCOMOTION
   image: dummy.png
-  description: ""
+  description: "Journal Paper"
   authors:
     Martins, M., Ackermann, M., Leonardi, F.
   link:
     url: https://www.sciencedirect.com/science/article/pii/S240589631833324X
     display: IFAC-PapersOnLine
   highlight: 2
+
+
+- title: The Influence of Inertial Forces on Manual Wheelchair Propulsion
+  image: dummy.png
+  description: "Book Chapter"
+  authors:
+    Amancio, A., Leonardi, F. , de Toleto Fleury, A. , Ackermann, M.
+  link:
+    url: https://www.springerprofessional.de/en/the-influence-of-inertial-forces-on-manual-wheelchair-propulsion/15968096
+    display: Lecture Notes in Mechanical Engineering. 'ed. Springer International Publishing
+  highlight: 3
+
+- title: Efeitos da Assistência Motorizada Parcial Sobre a Locomoção com Cadeira de Rodas por meio de Simulação Preditiva
+  image: dummy.png
+  description: "Conference Paper"
+  authors:
+    Martins, M., Ackermann, M., Leonardi, F.
+  link:
+    url: https://www.researchgate.net/publication/325477667_Efeitos_da_Assistencia_Motorizada_Parcial_Sobre_a_Locomocao_com_Cadeira_de_Rodas_por_meio_de_Simulacao_Preditiva
+    display: 6º Encontro Nacional de Engenharia Biomecânica - ENEBI 2018
+  highlight: 4
+
 
 
