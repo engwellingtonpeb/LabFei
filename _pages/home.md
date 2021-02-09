@@ -58,8 +58,9 @@ Grupo de pesquisa em Engenharia Biomédica e Tecnologias Assistivas do  [Centro 
 Agradecemos  à [FAPESP](www.fapesp.br), [CNPq](http://www.cnpq.br) e [CAPES](https://www.gov.br/capes/pt-br) pelo financiamento dos projetos.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_USP.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ifsc.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_FAPESP.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_FEI.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_capes.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_cnpq.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_FAPESP.png" style="width: 110px">
+  
 </figure>
