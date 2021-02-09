@@ -78,7 +78,7 @@ Ir para [professores](#Professores), [alunos de mestrado, doutorado e TCC](#Alun
 
 
 
-## Alunos de Mestrado, Doutorado e TCC
+## Alunos de Mestrado, Doutorado, IC e TCC
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -145,7 +145,6 @@ Ir para [professores](#Professores), [alunos de mestrado, doutorado e TCC](#Alun
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Função: {{ member.info }}</i>
   <ul style="overflow: hidden">
@@ -166,7 +165,9 @@ Ir para [professores](#Professores), [alunos de mestrado, doutorado e TCC](#Alun
 </div>
 {% endif %}
 
+<!--
 ## Visitantes
+
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -195,3 +196,4 @@ Ir para [professores](#Professores), [alunos de mestrado, doutorado e TCC](#Alun
 
 ## Apoio administrativo
 <a href="mailto:secretariafci3@ifsc.usp.br">Our administrative staff</a> is helping us (and other groups) with all the administration.
+-->
